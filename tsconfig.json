@@ -22,7 +22,8 @@
             "@/*": ["./src/*"],
             "@components": ["./src/components/components.ts"],
             "@layoutComponents": ["./src/components/layout/layout.ts"],
-            "@structureComponents": ["./src/components/structure/structure.ts"]
+            "@structureComponents": ["./src/components/structure/structure.ts"],
+            "@sharedComponents": ["./src/components/shared/shared.ts"]
         }
     },
     "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
