@@ -16,7 +16,7 @@
     position: absolute;
     top: 64px;
     height: calc(100vh - 64px);
-    width: clamp(200px, 100vw, 256px);
+    width: clamp(168px, 100vw, 224px);
 }
 
 @media (max-width: 384px) {
