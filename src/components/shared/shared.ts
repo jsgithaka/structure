@@ -1,1 +1,1 @@
-export { default as Trigger } from './Trigger/Trigger.module.css';
+export { default as Trigger } from './Trigger/Trigger';
